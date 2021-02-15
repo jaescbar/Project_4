@@ -1,5 +1,11 @@
-## Welcome to GitHub Pages
+## Project 4: Starbucks Capstone
 
+The Starbucks Capstone is an interesting project that seeks to determine which demographic groups respond best to different kinds of offers made by Starbucks. The project
+comes with three datasets:
+1. Portfolio Datata, which has information about the different kind of offers
+2. Profile Data, which has demographic information of  clients
+3. Transcript Data, which has the record of transactions, offers received, offers viewed and offers completed
+ 
 You can use the [editor on GitHub](https://github.com/jaescbar/Project_4/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
