@@ -18,13 +18,8 @@
   Interaction with the proyect is simple. Running the libraries and uploading the datasets is necessary before starting to explore and clean the data. Each dataset
   has its own section.
 
-## 4. Summary of the Results
 
-  A blog post containing more information of the project and the results can be found in the link below:
-  https://jaescbar.github.io/Project_4/
-
-
-## 5. Author and Acknowledgements
+## 4. Author and Acknowledgements
 
   The author of this project is Jorge Andrés Escobar, Universidad de los Andes economist with a masters degree in economics, currently working in Banco Davivienda.
   Special acknowledgments to Gustavo Venegas, Gustavo Torres and Udacity for the help they gave in this project.
